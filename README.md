@@ -1,5 +1,3 @@
-
-
 # CKP8622 - Computação Móvel e Ubíqua
 
 (Também CK0264 - Introdução à Computação Móvel e Ubíqua)
@@ -34,10 +32,11 @@ software móvel. Fragmentação e seus desafios. Técnicas de programação para
 
 - [Distributed Systems: Concepts and Design Autor: George Coulouris, Quinta Edição](https://www.amazon.com/Distributed-Systems-Concepts-Design-5th/dp/0132143011)
 
+- [The Computer of the 21st Century: Mark Weiser, Artigo Seminal da Computação Ubíqua](https://dl.acm.org/citation.cfm?id=329126)
 
+- [Ubicomp Systems at 20: Progress, Opportunities, and Challenges: Ramon Caceres & Adrian Friday](https://dl.acm.org/citation.cfm?id=2122358)
 
 ### Bibliografia Complementar
-
 
 
 ### Bibliografia sobre Ferramentas, Frameworks e Tecnologias
@@ -93,5 +92,6 @@ Estes artigos podem ser obtidos a partir da rede da UFC, mediante acesso ao port
 |14 Ago 2018|Apresentação da Disciplina. Ementa. Bibliografia. Avaliação. Metodologia. |[Slides PPTX](https://github.com/famt/comp_ubiqua/blob/master/slides/Aula00_Apresentacao.pptx) | - |
 |16 Ago 2018| Introdução e Desafios da Comp Ubíqua | [Slides PDF](https://github.com/famt/comp_ubiqua/blob/master/slides/Aula01_UbiComp.pdf) | - |
 |21 Ago 2018| Introdução e Desafios da Comp Ubíqua | [Slides PDF](https://github.com/famt/comp_ubiqua/blob/master/slides/Aula01_UbiComp.pdf) | - |
-|23 Ago 2018| Debate - Artigos Mark Weiser | -  | - |
+|23 Ago 2018| Debate - Artigos Mark Weiser | -  | [Artigo Weiser](https://dl.acm.org/citation.cfm?id=329126) |
+|  |  |   | [Computação Ubíqua - 20 anos depois](https://dl.acm.org/citation.cfm?id=2122358) |
 |28 Mar 2018| Definições para Computação Ubíqua | - | - |
