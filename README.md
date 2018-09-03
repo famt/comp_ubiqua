@@ -94,4 +94,6 @@ Estes artigos podem ser obtidos a partir da rede da UFC, mediante acesso ao port
 |21 Ago 2018| Introdução e Desafios da Comp Ubíqua | [Slides PDF](https://github.com/famt/comp_ubiqua/blob/master/slides/Aula01_UbiComp.pdf) | - |
 |23 Ago 2018| Debate - Artigos Mark Weiser | -  | [Artigo Weiser](https://dl.acm.org/citation.cfm?id=329126) |
 |  |  |   | [Computação Ubíqua - 20 anos depois](https://dl.acm.org/citation.cfm?id=2122358) |
-|28 Mar 2018| Definições para Computação Ubíqua | - | - |
+|28 Mar 2018| Definições para Computação Ubíqua | - | [Artigo "The pervasive discourse: an Analysis"](https://dl.acm.org/citation.cfm?id=1279553) [Artigo "Semantic web, ubiquitous computing, or
+internet of things?"](https://www.emeraldinsight.com/doi/abs/10.1108/JD-03-2013-0033) |  |  |   | |
+
