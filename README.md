@@ -96,5 +96,5 @@ Estes artigos podem ser obtidos a partir da rede da UFC, mediante acesso ao port
 |  |  |   | [Computação Ubíqua - 20 anos depois](https://dl.acm.org/citation.cfm?id=2122358) |
 |28 Ago 2018| Definições para Computação Ubíqua | - | [Artigo "The pervasive discourse: an Analysis"](https://dl.acm.org/citation.cfm?id=1279553) | 
 |   |   |    | [Artigo "Semantic web, ubiquitous computing, or internet of things?"](https://www.emeraldinsight.com/doi/abs/10.1108/JD-03-2013-0033) |
-|30 Ago 2018 | Desenvolvimento Mobile | [Slides PDF] | Ler o artigo ["A Taxonomy of Cross-Platform (https://www.sciencedirect.com/science/article/pii/S2090447915001276)  |
+|30 Ago 2018 | Desenvolvimento Mobile | [Slides PDF] | Ler o artigo ["A Taxonomy of Cross-Platform](https://www.sciencedirect.com/science/article/pii/S2090447915001276)  |
 |04 Set 2018 | Ferramentas CrossPlatform | - |  |
