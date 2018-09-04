@@ -2,7 +2,6 @@
 
 (Também CK0264 - Introdução à Computação Móvel e Ubíqua)
 
-
 ## Ciência da Computação, [Departamento de Computação](http://www.dc.ufc.br), ([UFC](http://www.ufc.br))
 
 ### Instrutores
@@ -22,7 +21,6 @@ Instituto UFC Virtual, horários: Terça e Quintas (18:00-20:00), Bloco Didátic
 
 Computação em Ubíqua é um paradigma computacional que busca explorar como recursos computacionais diversos podem ser melhor integrados ao cotidiano de usuários, fazendo com que a Qualidade da Experiência (QoE) destes usuários seja melhorada. O termo foi cunhado por Mark Weiser ao final dos anos 80, quando em suas pesquisas na Xerox, procurou estabelecer uma visão (então) futurística de como recursos computacionais seriam incorporados nas tarefas dos seres humanos. Deste então, o tema gerou uma série de pesquisas relacionadas a diferentes aspectos para suporte a visão proposta por Weiser, como computação sensível a contexto, Internet das Coisas, Web Semântica e Sistemas CyberFísicos.  Neste sentido, esta disciplina busca apresentar desde conceitos básicos até desafios atuais de pesquisa relevantes relacionados à computação ubíqua.
 
-
 ### Tópicos 
 
 Computação Ubíqua: conceitos, tecnologias e histórico. Principais características e requisitos desafiadores. Cenários e aplicação. Desafios. Tecnologias de comunicação sem fio. Sensibilidade ao contexto. Auto-adaptação de software. Personalização e customização. Adaptação estática e adaptação dinâmica. Sensores, agregadores e motores de inferência. Desenvolvimento de
@@ -38,17 +36,19 @@ software móvel. Fragmentação e seus desafios. Técnicas de programação para
 
 ### Bibliografia Complementar
 
+- [Ubiquitous Computing Fundamentals: John Krumm](https://www.amazon.com/Ubiquitous-Computing-Fundamentals-John-Krumm/dp/1420093606)
+
+- [Context-Aware Computing and Self-Managing Systems: Waltenegus Dargie](https://www.crcpress.com/Context-Aware-Computing-and-Self-Managing-Systems/Dargie/p/book/9781420077711)
+
+- [Principles of Cyber-Physical Systems: Rajeev Alur](https://www.amazon.com/Ubiquitous-Computing-Fundamentals-John-Krumm/dp/1420093606) 
+
+
 
 ### Bibliografia sobre Ferramentas, Frameworks e Tecnologias
 
-
 ### Blogs, Disciplinas, Treinamentos
 
-
-
 ### Business Cases
-
-
 
 ### Objetivos
 
@@ -80,10 +80,19 @@ Estes artigos podem ser obtidos a partir da rede da UFC, mediante acesso ao port
 
 
 ### Avaliação
+Para alunos da graduação serão realizadas três atividades e mais práticas em sala:
+- 2 apresentações sobre Programação Mobile
+- 4 trabalhos práticos (Contexto-Lucy, Framework de Contexto, Descoberta de Serviços, Jogos Pervasivos)
+- 1 prova escrita e individual;
+- 1 projeto grandão final usando uma plataforma mobile em grupo de até 3 componentes.
+- A média final da disciplina será calculada por meio de uma média ponderada das notas
 
+Para alunos da pós-graduação serão realizadas três atividades e mais práticas em sala:
+- Tudo que é pedido à graduação +
+- Seminário de Pesquisa
+- A média final da disciplina será calculada por meio de uma média ponderada das notas
 
 ### Plano de aulas
-
 
 | Aulas       | Tópicos                      | Recursos | Tarefas |
 |:-------------:|-----------------------------|:---------:|:-----------:|
@@ -94,7 +103,6 @@ Estes artigos podem ser obtidos a partir da rede da UFC, mediante acesso ao port
 |21 Ago 2018| Introdução e Desafios da Comp Ubíqua | [Slides PDF](https://github.com/famt/comp_ubiqua/blob/master/slides/Aula01_UbiComp.pdf) | - |
 |23 Ago 2018| Debate - Artigos Mark Weiser | -  | [Artigo Weiser](https://dl.acm.org/citation.cfm?id=329126) |
 |  |  |   | [Computação Ubíqua - 20 anos depois](https://dl.acm.org/citation.cfm?id=2122358) |
-|28 Ago 2018| Definições para Computação Ubíqua | - | [Artigo "The pervasive discourse: an Analysis"](https://dl.acm.org/citation.cfm?id=1279553) | 
-|   |   |    | [Artigo "Semantic web, ubiquitous computing, or internet of things?"](https://www.emeraldinsight.com/doi/abs/10.1108/JD-03-2013-0033) |
-|30 Ago 2018 | Desenvolvimento Mobile | [Slides PDF] | Ler o artigo ["A Taxonomy of Cross-Platform](https://www.sciencedirect.com/science/article/pii/S2090447915001276)  |
-|04 Set 2018 | Ferramentas CrossPlatform | - |  |
+|30 Ago 2018| Ecosistema de Desenvolvimento Mobile | [Slides PDF](https://github.com/famt/comp_ubiqua/blob/master/slides/Aula%2004_Introdu%C3%A7%C3%A3o%20%C3%A0s%20Plataformas%20M%C3%B3veis.pdf) | - |
+|04 Set 2018| Desenvolvimento CrossPlatform | [Slides PDF](https://github.com/famt/comp_ubiqua/blob/master/slides/Aula05_Discuss%C3%A3oCrossPlatform.pdf) | [Taxonomia CrossPlatform](https://www.sciencedirect.com/science/article/pii/S2090447915001276) |
+| |  |  | [CrossPlatform na PlayStore](https://ieeexplore.ieee.org/document/7283028/) |
