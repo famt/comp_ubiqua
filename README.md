@@ -106,3 +106,5 @@ Para alunos da pós-graduação serão realizadas três atividades e mais práti
 |30 Ago 2018| Ecosistema de Desenvolvimento Mobile | [Slides PDF](https://github.com/famt/comp_ubiqua/blob/master/slides/Aula%2004_Introdu%C3%A7%C3%A3o%20%C3%A0s%20Plataformas%20M%C3%B3veis.pdf) | - |
 |04 Set 2018| Desenvolvimento CrossPlatform | [Slides PDF](https://github.com/famt/comp_ubiqua/blob/master/slides/Aula05_Discuss%C3%A3oCrossPlatform.pdf) | [Taxonomia CrossPlatform](https://www.sciencedirect.com/science/article/pii/S2090447915001276) |
 | |  |  | [CrossPlatform na PlayStore](https://ieeexplore.ieee.org/document/7283028/) |
+|04 Set 2018| Desenvolvimento CrossPlatform | [Tarefa do Estudo de Viabilidade](https://github.com/famt/comp_ubiqua/blob/master/slides/Trabalho%20sobre%20os%20artigos%20%20de%20cross-platforms.pdf) | |
+
