@@ -108,4 +108,4 @@ Para alunos da pós-graduação serão realizadas três atividades e mais práti
 | |  |  | [CrossPlatform na PlayStore](https://ieeexplore.ieee.org/document/7283028/) |
 |04 Set 2018| Desenvolvimento CrossPlatform | [Tarefa do Estudo de Viabilidade](https://github.com/famt/comp_ubiqua/blob/master/slides/Trabalho%20sobre%20os%20artigos%20%20de%20cross-platforms.pdf) | |
 |06 Set 2018| Adaptação em Sistemas de Informação | [Slides PDF](https://github.com/famt/comp_ubiqua/blob/master/slides/Aula%2007_%20Adapta%C3%A7%C3%A3o.pdf) | [A Survey of adaptation systems](https://hal.archives-ouvertes.fr/hal-00689773/document) |
-|13 Set 2018| Definições de Contexto | [Slides PDF](https://github.com/famt/comp_ubiqua/blob/master/slides/Aula%200_%20Definicoes_de_Contexto.pdf) |  |
+|13 Set 2018| Definições de Contexto | [Slides PDF](https://github.com/famt/comp_ubiqua/blob/master/slides/Aula%2008_%20Definicoes_de_Contexto.pdf) |  |
