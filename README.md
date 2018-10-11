@@ -111,3 +111,6 @@ Para alunos da pós-graduação serão realizadas três atividades e mais práti
 |13 Set 2018| Definições de Contexto | [Slides PDF](https://github.com/famt/comp_ubiqua/blob/master/slides/Aula%2008_%20Definicoes_de_Contexto.pdf) |  |
 |18-25 Set 2018| Infraestruturas de Contexto | [Slides PDF](https://github.com/famt/comp_ubiqua/blob/master/slides/Aula%2009_%20Infra_estruturas_de_Contexto.pdf) |  |
 |27 Set 2018| Prática da Lucy |  | [Roteiro da Prática DOC](https://github.com/famt/comp_ubiqua/blob/master/extras/Lucy_Pratical_Simulation.doc) |
+|02 Out 2018| Introdução à IoT |  | [Slides PDF](https://github.com/famt/comp_ubiqua/blob/master/slides/Aula%2010_%20IoT.pdf) |
+|04 Out 2018| Infraestruturas de IoT |  | [Slides PDF](https://github.com/famt/comp_ubiqua/blob/master/slides/Aula%2011_%20IoTInfras.pdf) |
+|18 Out 2018| Prova |  | [Roteiro de Estudo](https://github.com/famt/comp_ubiqua/blob/master/extras/ListadeExercicioI_2018.doc) |
