@@ -11,11 +11,13 @@
 
 ### Local
 
-Instituto UFC Virtual, horários: Terça e Quintas (18:00-20:00), Bloco Didático, Laboratório 03.
+GREat (942-A), horários: Terça e Quintas (14:00-16:00).
 
 ### Edições passadas
 
 - Edições passadas à 2018.1, apenas no SigaA.
+- Edições 2018.1, no git.
+
 
 ### Ementa
 
