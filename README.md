@@ -1,3 +1,4 @@
+
 # CKP8622 - Computação Móvel e Ubíqua
 
 (Também CK0264 - Introdução à Computação Móvel e Ubíqua)
@@ -98,21 +99,20 @@ Para alunos da pós-graduação serão realizadas três atividades e mais práti
 
 | Aulas       | Tópicos                      | Recursos | Tarefas/Artigos |
 |:-------------:|-----------------------------|:---------:|:-----------:|
-|7 Ago 2018|Semana ZERO| - | - |
-|9 Ago 2018|Semana ZERO| - | - |
-|14 Ago 2018|Apresentação da Disciplina. Ementa. Bibliografia. Avaliação. Metodologia. |[Slides PPTX](https://github.com/famt/comp_ubiqua/blob/master/slides/Aula00_Apresentacao.pptx) | - |
-|16 Ago 2018| Introdução e Desafios da Comp Ubíqua | [Slides PDF](https://github.com/famt/comp_ubiqua/blob/master/slides/Aula01_UbiComp.pdf) | - |
-|21 Ago 2018| Introdução e Desafios da Comp Ubíqua | [Slides PDF](https://github.com/famt/comp_ubiqua/blob/master/slides/Aula01_UbiComp.pdf) | - |
-|23 Ago 2018| Debate - Artigos Mark Weiser | -  | [Artigo Weiser](https://dl.acm.org/citation.cfm?id=329126) |
+|6 Ago 2019|Semana ZERO| - | - |
+|8 Ago 2019|Semana ZERO| - | - |
+|13 Ago 2019|Apresentação da Disciplina. Ementa. Bibliografia. Avaliação. Metodologia. |[Slides PPTX](https://drive.google.com/open?id=1BcHGr0Ae1qAmgX38gqhzfUlaylvwhHTE) | - |
+|15 Ago 2019| Feriado | - | - |
+|20 Ago 2019| Introdução e Desafios da Comp Ubíqua | [Slides PDF](https://drive.google.com/open?id=1SCwz1OZoLm8LE_1KnSDPjcgPdsYB9vTq) | - |
+|22 Ago 2019| Introdução e Desafios da Comp Ubíqua | [Slides PDF](https://drive.google.com/open?id=1SCwz1OZoLm8LE_1KnSDPjcgPdsYB9vTq) | - |
+|27 Ago 2019| Debate - Artigos Mark Weiser | -  | [Artigo Weiser](https://dl.acm.org/citation.cfm?id=329126) |
 |  |  |   | [Computação Ubíqua - 20 anos depois](https://dl.acm.org/citation.cfm?id=2122358) |
-|30 Ago 2018| Ecossistema de Desenvolvimento Mobile | [Slides PDF](https://github.com/famt/comp_ubiqua/blob/master/slides/Aula%2004_Introdu%C3%A7%C3%A3o%20%C3%A0s%20Plataformas%20M%C3%B3veis.pdf) | - |
-|04 Set 2018| Desenvolvimento CrossPlatform | [Slides PDF](https://github.com/famt/comp_ubiqua/blob/master/slides/Aula05_Discuss%C3%A3oCrossPlatform.pdf) | [Taxonomia CrossPlatform](https://www.sciencedirect.com/science/article/pii/S2090447915001276) |
+|29 Ago 2019| Múltiplas Definições de Computação Ubíqua | [Slides PDF](https://drive.google.com/open?id=1NoNboARoZHyHB2mc6P4va_5kuzyrOmf5) | - |
+|03 Set 2019| Ecossistema de Desenvolvimento Mobile | [Slides PDF](https://drive.google.com/open?id=1y7DKrqoHVwwi2AzvnfLj3eXgVwsrtCuN) | - |
+|05 Set 2019| Ecossistema de Desenvolvimento Mobile | [Slides PDF](https://drive.google.com/open?id=1y7DKrqoHVwwi2AzvnfLj3eXgVwsrtCuN) | [Taxonomia CrossPlatform](https://www.sciencedirect.com/science/article/pii/S2090447915001276) |
 | |  |  | [CrossPlatform na PlayStore](https://ieeexplore.ieee.org/document/7283028/) |
-|04 Set 2018| Desenvolvimento CrossPlatform | [Tarefa do Estudo de Viabilidade](https://github.com/famt/comp_ubiqua/blob/master/slides/Trabalho%20sobre%20os%20artigos%20%20de%20cross-platforms.pdf) | |
-|06 Set 2018| Adaptação em Sistemas de Informação | [Slides PDF](https://github.com/famt/comp_ubiqua/blob/master/slides/Aula%2007_%20Adapta%C3%A7%C3%A3o.pdf) | [A Survey of adaptation systems](https://hal.archives-ouvertes.fr/hal-00689773/document) |
-|13 Set 2018| Definições de Contexto | [Slides PDF](https://github.com/famt/comp_ubiqua/blob/master/slides/Aula%2008_%20Definicoes_de_Contexto.pdf) |  |
-|18-25 Set 2018| Infraestruturas de Contexto | [Slides PDF](https://github.com/famt/comp_ubiqua/blob/master/slides/Aula%2009_%20Infra_estruturas_de_Contexto.pdf) |  |
-|27 Set 2018| Prática da Lucy |  | [Roteiro da Prática DOC](https://github.com/famt/comp_ubiqua/blob/master/extras/Lucy_Pratical_Simulation.doc) |
-|02 Out 2018| Introdução à IoT |  | [Slides PDF](https://github.com/famt/comp_ubiqua/blob/master/slides/Aula%2010_IoT.pdf) |
-|04 Out 2018| Infraestruturas de IoT |  | [Slides PDF](https://github.com/famt/comp_ubiqua/blob/master/slides/Aula%2011_IoTInfras.pdf) |
-|18 Out 2018| Prova |  | [Roteiro de Estudo](https://github.com/famt/comp_ubiqua/blob/master/extras/ListadeExercicioI_2018.doc) |
+|10 Set 2019| Aula Invertida (CrossPlatform) | -  | - |
+|12 Set 2019| Adaptação - Personalização | [Slides PDF](https://drive.google.com/open?id=1lzBDZlyR4PTvwPfW1olj3AvltGhHjXXS) | [A Survey of adaptation systems](https://hal.archives-ouvertes.fr/hal-00689773/document) |
+|17 Set 2019| Sensibilidade a Contexto (Modelagem) | [Slides PDF](#) |  |
+|19 Set 2019| Sensibilidade a Contexto (Awareness) | [Slides PDF](#) |  |
+||  |  |  |
