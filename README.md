@@ -1,4 +1,5 @@
 
+
 # CKP8622 - Computação Móvel e Ubíqua
 
 (Também CK0264 - Introdução à Computação Móvel e Ubíqua)
@@ -109,7 +110,7 @@ Para alunos da pós-graduação serão realizadas três atividades e mais práti
 |  |  |   | [Computação Ubíqua - 20 anos depois](https://dl.acm.org/citation.cfm?id=2122358) |
 |29 Ago 2019| Múltiplas Definições de Computação Ubíqua | [Slides PDF](https://drive.google.com/open?id=1NoNboARoZHyHB2mc6P4va_5kuzyrOmf5) | - |
 |03 Set 2019| Ecossistema de Desenvolvimento Mobile | [Slides PDF](https://drive.google.com/open?id=1y7DKrqoHVwwi2AzvnfLj3eXgVwsrtCuN) | - |
-|05 Set 2019| Ecossistema de Desenvolvimento Mobile | [Slides PDF](https://drive.google.com/open?id=1y7DKrqoHVwwi2AzvnfLj3eXgVwsrtCuN) | [Taxonomia CrossPlatform](https://www.sciencedirect.com/science/article/pii/S2090447915001276) |
+|05 Set 2019| Ecossistema de Desenvolvimento Mobile | [Slides PDF](https://drive.google.com/open?id=1y7DKrqoHVwwi2AzvnfLj3eXgVwsrtCuN) | [Taxonomia CrossPlatform](https://www.sciencedirect.com/science/article/pii/S2090447915001276) <br/><br/> [CrossPlatform na PlayStore](https://ieeexplore.ieee.org/document/7283028/)|
 | |  |  | [CrossPlatform na PlayStore](https://ieeexplore.ieee.org/document/7283028/) |
 |10 Set 2019| Aula Invertida (CrossPlatform) | -  | - |
 |12 Set 2019| Adaptação - Personalização | [Slides PDF](https://drive.google.com/open?id=1lzBDZlyR4PTvwPfW1olj3AvltGhHjXXS) | [A Survey of adaptation systems](https://hal.archives-ouvertes.fr/hal-00689773/document) |
