@@ -110,7 +110,7 @@ Para alunos da pós-graduação serão realizadas três atividades e mais práti
 |  |  |   | [Computação Ubíqua - 20 anos depois](https://dl.acm.org/citation.cfm?id=2122358) |
 |29 Ago 2019| Múltiplas Definições de Computação Ubíqua | [Slides PDF](https://drive.google.com/open?id=1NoNboARoZHyHB2mc6P4va_5kuzyrOmf5) | - |
 |03 Set 2019| Ecossistema de Desenvolvimento Mobile | [Slides PDF](https://drive.google.com/open?id=1y7DKrqoHVwwi2AzvnfLj3eXgVwsrtCuN) | - |
-|05 Set 2019| Ecossistema de Desenvolvimento Mobile | [Slides PDF](https://drive.google.com/open?id=1y7DKrqoHVwwi2AzvnfLj3eXgVwsrtCuN) | [Taxonomia CrossPlatform](https://www.sciencedirect.com/science/article/pii/S2090447915001276) <br/><br/> [CrossPlatform na PlayStore](https://ieeexplore.ieee.org/document/7283028/)|
+|05 Set 2019| Ecossistema de Desenvolvimento Mobile | [Slides PDF](https://drive.google.com/open?id=1IaHa5POcIoDFyLM59bGITTlG_YCC6LMV) | [Taxonomia CrossPlatform](https://www.sciencedirect.com/science/article/pii/S2090447915001276) <br/><br/> [CrossPlatform na PlayStore](https://ieeexplore.ieee.org/document/7283028/)|
 |10 Set 2019| Aula Invertida (CrossPlatform) | -  | - |
 |12 Set 2019| Adaptação - Design responsivo | [Slides PDF](https://drive.google.com/file/d/1m9MD14HQQKH95RSyCMKxqPmSsZ6Exo8W/view?usp=sharing) |  |
 |17 Set 2019| Técnicas de Adaptação - Sensibilidade ao Contexto | [Slides PDF](https://drive.google.com/open?id=1lzBDZlyR4PTvwPfW1olj3AvltGhHjXXS) | [A Survey of adaptation systems](https://hal.archives-ouvertes.fr/hal-00689773/document) |
