@@ -113,6 +113,6 @@ Para alunos da pós-graduação serão realizadas três atividades e mais práti
 |05 Set 2019| Ecossistema de Desenvolvimento Mobile | [Slides PDF](https://drive.google.com/open?id=1y7DKrqoHVwwi2AzvnfLj3eXgVwsrtCuN) | [Taxonomia CrossPlatform](https://www.sciencedirect.com/science/article/pii/S2090447915001276) <br/><br/> [CrossPlatform na PlayStore](https://ieeexplore.ieee.org/document/7283028/)|
 |10 Set 2019| Aula Invertida (CrossPlatform) | -  | - |
 |12 Set 2019| Adaptação - Personalização | [Slides PDF](https://drive.google.com/open?id=1lzBDZlyR4PTvwPfW1olj3AvltGhHjXXS) | [A Survey of adaptation systems](https://hal.archives-ouvertes.fr/hal-00689773/document) |
-|17 Set 2019| Sensibilidade a Contexto (Modelagem) | [Slides PDF](#) |  |
-|19 Set 2019| Sensibilidade a Contexto (Awareness) | [Slides PDF](#) |  |
+|17 Set 2019| Adaptação - Design responsivo | [Slides PDF](https://drive.google.com/file/d/1m9MD14HQQKH95RSyCMKxqPmSsZ6Exo8W/view?usp=sharing) |  |
+|19 Set 2019| Sensibilidade a Contexto (Awareness) | [Slides PDF](https://drive.google.com/open?id=1MQpGy9a0MAX7_DKvEZgdjrcVMJPtofFC) |  |
 ||  |  |  |
