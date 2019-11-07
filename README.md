@@ -116,6 +116,7 @@ Para alunos da pós-graduação serão realizadas três atividades e mais práti
 |17 Set 2019| Técnicas de Adaptação - Sensibilidade ao Contexto | [Slides PDF](https://drive.google.com/open?id=1lzBDZlyR4PTvwPfW1olj3AvltGhHjXXS) | [A Survey of adaptation systems](https://hal.archives-ouvertes.fr/hal-00689773/document) |
 |19 Set 2019| Sensibilidade a Contexto (Awareness API) | [Slides PDF](https://drive.google.com/open?id=1MQpGy9a0MAX7_DKvEZgdjrcVMJPtofFC) | - |
 |24 Set 2019| Jogos Pervasivos | [Slides PDF](https://drive.google.com/open?id=1yMy3HBb-tV0ZjmJcRHECxRgERT6XxCzb) | - |
+|26 Set 2019| Lucy | [Artigo da Ferramenta](https://www.researchgate.net/publication/320992898_Lucy_An_Environment_for_Practical_Ubiquitous_Computing_Classes) | - |
 |01 Out 2019| IoT - Definições | [Slides PDF](https://drive.google.com/open?id=1TetbQxUQ9Oe-O7gs_Pw9lmBH7vlBiWCe) | - |
 |03 Out 2019| IoT - Arquitetura | [Slides PDF](https://drive.google.com/open?id=15tIY58rF3DLAPVgNxzG3HELdEbuwcSvU) | - |
 |08 e 10 Out 2019| Descoberta de Serviços | [Slides PDF](https://drive.google.com/open?id=1IsNGBy6fDNQs11cUZ-O8ANKrTOg9vQ-Q) | - |
